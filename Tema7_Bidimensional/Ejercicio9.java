@@ -66,13 +66,15 @@ public class Ejercicio9 {
                     matriz[i][capa2]=arrayAux[i-1][capa2];
                 }
                 //ultima linea.
+                // capa2-1 por que el valor de matriz[11][11] se asigno en el anterior for
                 for(j=capa2-1; j>=capa;j--){
                     // matriz[11][10]=arrayAux[11][11]
                     // matriz[11][9]=arrayAux[11][10]...
                     matriz[capa2][j]=arrayAux[capa2][j+1];
                 }
                 //primera  columna.
-                for(i=capa2-1; i>capa; i--){
+                // capa2-1 por que el valor de matriz[11][0] se asigno en el anterior for
+                for(i=capa2-1; i>capa; i--){ 
                     // matriz[10][0]=arrayAux[11][0]
                     // matriz[9][0]=arrayAux[10][0]...
                     matriz[i][capa]=arrayAux[i+1][capa];
