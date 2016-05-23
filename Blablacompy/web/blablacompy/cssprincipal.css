@@ -1,0 +1,165 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 23, 2016, 1:23:54 AM
+    Author     : angelo
+*/
+
+body{
+    width: 100%;
+    background-color: navajowhite;
+}
+.minititulo{
+    margin-left: 20px;
+}
+div.conjunto{
+    position: relative;
+    left: 570px;
+    top:150px;
+    
+    
+    background-color: cadetblue;
+    height: 500px;
+    width: 500px;
+    
+}
+.cajainiciosesion{
+    
+   height: 200px;
+   
+}
+.cajainiciosesion form{
+   padding-left: 50px;
+   padding-top: 20px;
+}
+.cajainiciosesion form input{
+   margin:  10px;
+   
+   
+}
+.titulo{
+   
+   height: 150px;
+   padding-top: 20px;
+   padding-left: 20px;
+}
+.registro h4{
+    margin-left: 189px;
+    padding-top: 20px;
+    
+}
+.registro form{
+    margin-left: 189px;
+     padding-top: 5px;
+}
+.cajita{
+    padding-left: 60px; 
+}
+.barraNavegacion{
+   position: relative; 
+   width: 995px;
+   left: 20%;
+   background-color:cadetblue;
+   padding-left: 250px;
+}
+
+.barraNavegacion li{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+   
+}
+.datosusuariologin{
+  
+  margin-bottom: 20px;
+  margin-top: 10px;
+  position: relative;
+  left: 62.5%;
+  width: 210px;;
+ 
+}
+.miniinfo{
+    
+   margin-left: 375px;
+   width: 1000px;
+}
+.inforfuncionamiento h2{
+    margin-left: 189px;
+    padding-top: 20px;
+    
+}
+.contenedor{
+    width: 100%;
+    
+    height: 100%;
+}
+.tituloviajes{
+    margin-left: 350px;
+    margin-top: 60px;
+    
+    width: 1000px;
+    background-color:cadetblue;
+    padding-left: 300px;
+}
+.contenido{
+    margin-left: 450px;
+    margin-top: 80px;
+    
+    width: 40%;
+}
+table .titulos_misviajes{
+   background-color:cadetblue; 
+}
+table .titulos_misviajes1{
+   text-align: center; 
+} 
+table td{
+    background-color: darkgray;
+}
+.cajita1{
+    margin-bottom: 10px;
+}
+
+.contenido2{
+    margin-left: 750px;
+    margin-top: 30px;
+    width: 40%;
+}
+.contenidoacompañantes{
+    margin-left: 650px;
+    margin-top: 80px;
+    width: 40%;
+}
+.tituloviajes2{
+    margin-left: 350px;
+    margin-top: 60px;
+    
+    width: 1000px;
+    background-color:cadetblue;
+    padding-left: 400px;
+}
+.contenidoacompañantes p{
+    margin-left: 250px;
+    
+    
+}
+.modfica{
+    margin-left: -50px;
+}
+.dardebaja{
+    margin-left: 250px;
+    margin-top: -55px;
+}
+.dardebaja2{
+    margin-left: 250px;
+    margin-top: 0px;
+}
+.contenido input{
+    margin: 5px;
+}
+
+    
+
